@@ -1,3 +1,13 @@
+# Michael Dickens' extensions
+
+"fit.py" fits historical Gross World Product (GWP) to a hyperbola over various time ranges.
+
+"data/GWP.csv" contains the same data as "GWP.xlsx", but I converted it to CSV to make it easier to analyze with Python.
+
+"data/Time to Doomsday.xlsx" plots some results that I generated using "fit.py".
+
+# David Roodman's original README
+
 Code and data archive for working paper version of Roodman, "Modeling the Human Trajectory"
 
 "GWP.xlsx" exhibits the data set construction and its "Data" tab is accessed directly by "Modeling GWP.do"
